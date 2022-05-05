@@ -1,7 +1,7 @@
 # Abertura - o inicio da missão
 
 
-Não se preocupe com o inicio. O inicio será dificil mesmo.
+Não se preocupe com o inicio. O inicio será difícil mesmo.
 Ame o processo.
 Cada etapa será necessária
 Foque em uma trilha e continue nela do começou ao fim.
@@ -10,4 +10,26 @@ O nlw tem data para começar e para terminar.
 
 Amanhã já começamos com aula prática.
 
+# Aula 1
 
+Conceitos iniciais. Preparação do layout da página que iremos criar.
+
+Incluindo nisto tags HTML e CSS
+
+Código da Aula: #NextLevel
+
+# Aula 2 
+
+HTML, CSS, JavaScript e DOM
+
+Hashtag #NeverStopLearning
+
+# Aula 3
+
+Aprendemos a padronizar a estrutura do CSS e HTML para facilitar a rever o código. 
+
+Vimos um pouco sobre transições e rolagem suave (smooth scrolling)
+
+Tivemos acesso a uma biblieoteca de Javascript 
+
+Hashtag #NewSkills
