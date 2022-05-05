@@ -33,3 +33,12 @@ Vimos um pouco sobre transições e rolagem suave (smooth scrolling)
 Tivemos acesso a uma biblieoteca de Javascript 
 
 Hashtag #NewSkills
+
+
+# Aula 4
+
+Ansioso para ver o próximo dia !! O style ta show! Aprendemos uma maneira divertida de alterar todo o layout do site, apenas utlizando variáveis em CSS, o que torna a apresentação do site totalmente nova. Simplesmente incrivel!
+
+A Hastag de hoje é #StepByStep
+
+Continuar evoluindo sem pular etapas, passo a passo!

@@ -1,4 +1,11 @@
+window.addEventListener('scroll', onScroll)
+
 function onScroll () {
+  showNavOnScroll();
+  showBackToTopButtonOnScroll();
+}
+
+function showNavOnScroll() {
   var element = document.querySelector("nav")
   if (scrollY != 0) {
     element.classList.add("scroll")
@@ -6,6 +13,17 @@ function onScroll () {
     element.classList.remove("scroll")
   }
 }
+
+function showBackToTopButtonOnScroll() {
+  var element = document.querySelector("#backToTopButton")
+  if (scrollY > 400) {
+    element.classList.add("show")
+  } else {
+    element.classList.remove("show")
+  }
+}
+
+
 
 function openMenu () {
   var element = document.querySelector("body")
@@ -30,3 +48,4 @@ ScrollReveal({
   #about,
   #about header,
   #about .content`);
+
